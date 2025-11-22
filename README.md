@@ -5,9 +5,12 @@ Below are sample screenshots from the application:
 ### 🖼 Main App Interface
 ![App Screenshot](image.png)
 
-![Dataset Preview](Screenshot 2025-11-22 193005.png)
 
-![Notebook Screenshot](Screenshot 2025-11-22 193016.png)
+![Dataset Preview](https://github.com/morad-elnahla/car-price-prediction/blob/main/Screenshot%202025-11-22%20193005.png?raw=1)
+
+
+![Notebook Screenshot](https://github.com/morad-elnahla/car-price-prediction/blob/main/Screenshot%202025-11-22%20193016.png?raw=1)
+
 
 ---
 
