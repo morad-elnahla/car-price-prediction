@@ -1,5 +1,15 @@
 # 🚗 Car Price Prediction App
+## 📸 Screenshots
+Below are sample screenshots from the application:
 
+### 🖼 Main App Interface
+![App Screenshot](image.png)
+
+![Dataset Preview](Screenshot 2025-11-22 193005.png)
+
+![Notebook Screenshot](Screenshot 2025-11-22 193016.png)
+
+---
 
 ## 📌 Project Overview
 This project provides an interactive **Car Price Prediction** app built with **Streamlit**, using a trained machine learning regression model to estimate the market price of a car based on its features.
